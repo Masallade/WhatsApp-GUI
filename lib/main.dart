@@ -50,7 +50,7 @@ class _MyAppState extends State<MyApp> {
                   ),
                   PopupMenuItem(
                     value: 1,
-                    child:Text('Logout')
+                    child:Text('LogOut')
                   )
 
               ]
